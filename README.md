@@ -21,7 +21,7 @@ utilize um path para cada uma delas, sendo:
 Acesso aplicação clima utilizar: "http://localhost:3000/clima"
 Acesso aplicação cep utilizar: "http://localhost:3000/cep"
 Acesso aplicação formulario utilizar: "http://localhost:3000/form"
-
+```
 ## Layout aplicações: 
 
 ## Aplicação CLIMA:
