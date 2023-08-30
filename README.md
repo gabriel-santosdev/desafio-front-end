@@ -25,5 +25,5 @@ Acesso aplicação formulario utilizar: "http://localhost:3000/form"
 
 ## Aplicação clima:
 <h1 align="center">
-  <img alt="Clima" title="Clima" src="./Clima.png" />
+  <img alt="Clima" title="Clima" src="./public/Clima.png" />
 </h1>
