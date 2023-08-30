@@ -29,14 +29,6 @@ const SearchCepForm: React.FC<SearchFormProps> = ({ onSubmit }) => {
 
 
     return (
-        // <form onSubmit={handleSubmit} className=''>
-        //     <div>
-        //         <input type="text" placeholder="UF" value={uf} onChange={handleUfChange} className='rounded-md m-2' />
-        //         <input type="text" placeholder="Cidade" value={city} onChange={handleCityChange} className='rounded-md m-2' />
-        //         <input type="text" placeholder="Logradouro" value={street} onChange={handleStreetChange} className='rounded-md m-2' />
-        //         <button type="submit" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Buscar</button>
-        //     </div>
-        // </form>
 
         <div className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
             <div className="relative py-3 sm:max-w-xl sm:mx-auto">
