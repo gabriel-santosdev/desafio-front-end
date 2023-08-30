@@ -14,6 +14,7 @@ pnpm dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
+```bash
 Para abrir as respesctivas aplicações (Clima, Cep, Formulario), é necessário que
 utilize um path para cada uma delas, sendo:
 
@@ -23,7 +24,17 @@ Acesso aplicação formulario utilizar: "http://localhost:3000/form"
 
 ## Layout aplicações: 
 
-## Aplicação clima:
+## Aplicação CLIMA:
 <h1 align="center">
   <img alt="Clima" title="Clima" src="./public/Clima.png" />
+</h1>
+
+## Aplicação CEP:
+<h1 align="center">
+  <img alt="Clima" title="Clima" src="./public/Buscar CEP.png" />
+</h1>
+
+## Aplicação FORMULÁRIO:
+<h1 align="center">
+  <img alt="Clima" title="Clima" src="./public/Formulario.png" />
 </h1>
